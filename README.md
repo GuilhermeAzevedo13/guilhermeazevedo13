@@ -33,6 +33,7 @@ Além do meu conhecimento técnico em Estruturas de Dados e Análise de Dados pa
 ## Interesses
 Meu interesse em TI vai além do código. Aqui estão algumas áreas que me fascinam:
 
+- 😎 Machine Learning & Deep Learning
 - 🌐 Desenvolvimento de Software e suas tecnologias.
 - 📱 Aplicações móveis e desenvolvimento mobile.
 - 🚀 Novas tendências em tecnologia e inovação.
