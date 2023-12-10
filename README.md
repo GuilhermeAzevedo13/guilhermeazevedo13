@@ -20,7 +20,11 @@ Sou um entusiasta de tecnologia da informação apaixonado por desenvolvimento e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" alt="vscode" height="50" width="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" align="center" alt="arduino" height="50" width="50"/> &nbsp;
 
+## Métricas do meu Repositório
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAzevedo13&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Linguagens mais usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAzevedo13&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Soft Skills
 Além do meu conhecimento técnico em Estruturas de Dados e Análise de Dados para Aprendizado de Máquina, possuo habilidades interpessoais que me ajudam a colaborar e crescer profissionalmente:
