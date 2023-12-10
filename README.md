@@ -1,12 +1,12 @@
-# Olá, eu sou Guilherme Menezes de Azevedo
+# Hello, I'm Guilherme Menezes de Azevedo
 
-## Sobre mim
-Sou um entusiasta de tecnologia da informação apaixonado por desenvolvimento e programação. Estou constantemente buscando novos desafios e oportunidades de aprendizado no mundo da TI.
+## About Me
+I'm an information technology enthusiast passionate about development and programming. I'm constantly seeking new challenges and learning opportunities in the world of IT.
 
-- 🔭 Estou imerso no universo do Machine Learning, utilizando o Tensorflow como ferramenta principal, enquanto participo de um projeto de Iniciação Científica focado na Classificação de Sinais Miográficos.
-- 🌱 Estou cursando **Engenharia da Computação na Universidade Federal de Sergipe**, onde estou aprimorando meus conhecimentos em Machine Learning, Ciência de Dados, Cloud Computer, Automação de Dashboards no Power BI e Python e Excel para análise de dados.
+- 🔭 I'm immersed in the realm of Machine Learning, utilizing TensorFlow as my primary tool, while engaging in a Scientific Initiation project focused on Myographic Signal Classification.
+- 🌱 I'm pursuing Computer Engineering at the Federal University of Sergipe, where I'm enhancing my knowledge in Machine Learning, Data Science, Cloud Computing, Dashboard Automation in Power BI, and Python and Excel for data analysis.
 
-## 🧰 &nbsp;Minha Caixa de Ferramentas
+## 🧰 &nbsp;My Tool Box
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python" height="50" width="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" alt="C" height="50" width="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" align="center" alt="Haskell" height="50" width="50"/> &nbsp;
@@ -20,30 +20,30 @@ Sou um entusiasta de tecnologia da informação apaixonado por desenvolvimento e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" alt="vscode" height="50" width="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" align="center" alt="arduino" height="50" width="50"/> &nbsp;
 
-## Métricas do meu Repositório
+## Metrics of my Repository
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAzevedo13&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Linguagens mais usadas
+## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAzevedo13&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Soft Skills
-Além do meu conhecimento técnico em Estruturas de Dados e Análise de Dados para Aprendizado de Máquina, possuo habilidades interpessoais que me ajudam a colaborar e crescer profissionalmente:
+Beyond my technical expertise in Data Structures and Data Analysis for Machine Learning, I possess interpersonal skills that aid me in collaborating and growing professionally:
 
-- 🤝 Excelente habilidade de trabalho em equipe.
-- 📚 Capacidade de aprendizado rápido.
-- 🎯 Foco em resultados e resolução de problemas.
-- 📢 Boa comunicação e capacidade de explicar conceitos complexos de forma simples.
+- 🤝 Excellent teamwork skills.
+- 📚 Rapid learning ability.
+- 🎯 Focus on results and problem-solving.
+- 📢 Strong communication and the ability to explain complex concepts in a simple manner.
 
-## Interesses
-Meu interesse em TI vai além do código. Aqui estão algumas áreas que me fascinam:
+## Interests
+My interest in IT goes beyond the code. Here are some areas that fascinate me:
 
 - 😎 Machine Learning & Deep Learning
-- 🌐 Desenvolvimento de Software e suas tecnologias.
-- 📱 Aplicações móveis e desenvolvimento mobile.
-- 🚀 Novas tendências em tecnologia e inovação.
-- 🧩 Automação e otimização de processos.
+- 🌐 Software Development and its technologies.
+- 📱 Mobile applications and mobile development.
+- 🚀 Emerging technology trends and innovation.
+- 🧩 Process automation and optimization.
 
-## Como me encontrar
+## Where to Find Me
 <div>
   <a href="https://contate.me/guilhermeazevedo13" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
