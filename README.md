@@ -1,7 +1,7 @@
 # Hello, I'm Guilherme Menezes de Azevedo
 
 ## About Me
-I'm an information technology enthusiast passionate about development and programming. I'm constantly seeking new challenges and learning opportunities in the world of IT.
+I'm information technology enthusiast passionate about development and programming. I'm constantly seeking new challenges and learning opportunities in the world of IT.
 
 - 🔭 I'm immersed in the realm of Machine Learning, utilizing TensorFlow as my primary tool, while engaging in a Scientific Initiation project focused on Myographic Signal Classification.
 - 🌱 I'm doing Computer Engineering at the Federal University of Sergipe, where I'm enhancing my knowledge in Machine Learning, Data Science, Cloud Computing, Dashboard Automation in Power BI, and Python and Excel for data analysis.
