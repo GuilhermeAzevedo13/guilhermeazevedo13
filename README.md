@@ -46,6 +46,16 @@ I'm information technology enthusiast passionate about development and programmi
 
 ###
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeazevedo13/guilhermeazevedo13/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeazevedo13/guilhermeazevedo13/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilhermeazevedo13/guilhermeazevedo13/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## Metrics of my Repository and Most Used Languages
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=guilhermeazevedo13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
