@@ -20,11 +20,14 @@ I'm information technology enthusiast passionate about development and programmi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" alt="vscode" height="50" width="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" align="center" alt="arduino" height="50" width="50"/> &nbsp;
 
-## Metrics of my Repository
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAzevedo13&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Metrics of my Repository and Most Used Languages
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermeazevedo13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeazevedo13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeazevedo13&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAzevedo13&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+###
 
 ## Soft Skills
 Beyond my technical expertise in Data Structures and Data Analysis for Machine Learning, I possess interpersonal skills that aid me in collaborating and growing professionally:
