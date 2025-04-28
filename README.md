@@ -6,7 +6,7 @@ I'm information technology enthusiast passionate about development and programmi
 - 🔭 I'm immersed in the realm of Machine Learning, utilizing TensorFlow as my primary tool, while engaging in a Scientific Initiation project focused on Myographic Signal Classification.
 - 🌱 I'm doing Computer Engineering at the Federal University of Sergipe, where I'm enhancing my knowledge in Machine Learning, Data Science, Cloud Computing, Dashboard Automation in Power BI, and Python and Excel for data analysis.
 
-## 🧰 &nbsp;My Tool Box
+## 🧰 &nbsp;My Techs
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python" height="50" width="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" alt="C" height="50" width="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" align="center" alt="Haskell" height="50" width="50"/> &nbsp;
