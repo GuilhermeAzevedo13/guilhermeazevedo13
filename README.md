@@ -27,6 +27,10 @@ I'm information technology enthusiast passionate about development and programmi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeazevedo13&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/guilhermeazevedo13/guilhermeazevedo13/output/snake.svg" alt="Snake animation" />
+
+###
+
 ###
 
 ## Soft Skills
