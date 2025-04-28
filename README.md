@@ -5,6 +5,7 @@ I'm information technology enthusiast passionate about development and programmi
 
 - 🔭 I'm immersed in the realm of Machine Learning, utilizing TensorFlow as my primary tool, while engaging in a Scientific Initiation project focused on Myographic Signal Classification.
 - 🌱 I'm doing Computer Engineering at the Federal University of Sergipe, where I'm enhancing my knowledge in Machine Learning, Data Science, Cloud Computing, Dashboard Automation in Power BI, and Python and Excel for data analysis.
+- 🚀 Just vibing and coding a project with React, AdonisJS, and TypeScript — also flexing my Software Architecture and Database Design muscles. GitHub’s got the sauce!
 
 ## 🧰 &nbsp;My Techs
 <div align="left">
