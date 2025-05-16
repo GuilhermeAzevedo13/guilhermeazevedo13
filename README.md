@@ -4,6 +4,8 @@
 I'm information technology enthusiast passionate about development and programming. I'm constantly seeking new challenges and learning opportunities in the world of IT.
 
 - 🔭 I'm immersed in the realm of Machine Learning, utilizing TensorFlow as my primary tool, while engaging in a Scientific Initiation project focused on Myographic Signal Classification.
+- 🏥 I'm developing a Workplace Safety Management System for the University Hospital of Sergipe (HU/UFS), as part of a Technological Initiation project.  
+  Using **React**, **Next.js**, **TypeScript**, **AdonisJS**, and **PostgreSQL**, we're building a full-stack platform to streamline occupational safety workflows in the hospital setting. I'm leading the backend/frontend integration, architecture decisions, and crafting scalable solutions that make real-world impact.
 - 🌱 I'm doing Computer Engineering at the Federal University of Sergipe, where I'm enhancing my knowledge in Machine Learning, Data Science, Cloud Computing, Dashboard Automation in Power BI, and Python and Excel for data analysis.
 - 🚀 Just vibing and coding a project with React, AdonisJS, and TypeScript — also flexing my Software Architecture and Database Design muscles. GitHub’s got the sauce!
 
