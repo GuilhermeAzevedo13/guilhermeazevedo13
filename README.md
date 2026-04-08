@@ -3,6 +3,7 @@
 ## About Me
 I'm information technology enthusiast passionate about development and programming. I'm constantly seeking new challenges and learning opportunities in the world of IT.
 
+- 🏢 Currently interning at **Appis**, leveling up my full-stack game with **.NET 8**, **React**, and **Python**. I'm diving deep into real-world clean architecture, building scalable APIs, and getting hands-on with hardware integrations (IoT/ESP32 + MQTT) and Twilio.
 - 🔭 I'm immersed in the realm of Machine Learning, utilizing TensorFlow as my primary tool, while engaging in a Scientific Initiation project focused on Myographic Signal Classification.
 - 🏥 I'm developing a Workplace Safety Management System for the University Hospital of Sergipe (HU/UFS), as part of a Technological Initiation project.  
   Using **React**, **Next.js**, **TypeScript**, **AdonisJS**, and **PostgreSQL**, we're building a full-stack platform to streamline occupational safety workflows in the hospital setting. I'm leading the backend/frontend integration, architecture decisions, and crafting scalable solutions that make real-world impact.
