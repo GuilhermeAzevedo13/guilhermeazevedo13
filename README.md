@@ -1,3 +1,4 @@
+###
 # Hello, I'm Guilherme Menezes de Azevedo
 
 ## About Me
@@ -63,20 +64,16 @@ I'm information technology enthusiast passionate about development and programmi
 
 ###
 
-###
-
-###
-
 ## Metrics of my Repository and Most Used Languages
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermeazevedo13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeazevedo13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeazevedo13&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 ###
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeazevedo13&" alt="guilhermeazevedo13" /></p>
 
 ###
 
@@ -115,7 +112,6 @@ My interest in IT goes beyond the code. Here are some areas that fascinate me:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
-
 
 ###
 
